@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is an exercise project of Tic Tac Toe.
+https://react.docschina.org/tutorial/tutorial.html
+
 ## Available Scripts
 
 In the project directory, you can run:
